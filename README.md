@@ -15,7 +15,9 @@ While updating the codebase to accessibility standards following issues were als
 
 ## Installation
 
-* 
+* [Horiseon Marketing Webpage](https://kestleolson.github.io/code-refactor1/index.html)
+
+* [Github Repo](https://github.com/KestleOlson/code-refactor1)
 
 ## Usage
 
